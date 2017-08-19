@@ -36,8 +36,8 @@ header {
   background-repeat: no-repeat;
   height: 200px;
   min-width: 100px;
-  max-width: 200px;
-  border-radius: 100px;
+  max-width: 100px;
+  border-radius: 10px;
   /* border: 14px solid #eee; */
   flex: 1;
   margin: 0 auto;
