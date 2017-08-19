@@ -34,9 +34,9 @@ header {
   /* background-image: url('images/profile_image.jpg'); */
   background-size: 200px;
   background-repeat: no-repeat;
-  height: 200px;
+  height: 250px;
   min-width: 100px;
-  max-width: 100px;
+  max-width: ;
   border-radius: 10px;
   /* border: 14px solid #eee; */
   flex: 1;
